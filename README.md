@@ -6,6 +6,6 @@ Este repositório é o envio do Projeto Semestral deste grupo.
 Neste repositório, se encontra o código-fonte do projeto, o dataset completo, e abaixo, o índice dos materiais produzidos para o projeto.
 
 1. [Notebook colab executável comentando precisamente o código produzido.](https://colab.research.google.com/drive/1Qd1_ZEz87XNksApjtdiTk2gkbkZrWGBX?usp=sharing) 
-2. Artigo sobre o projeto.
+2. [Artigo sobre o projeto.](https://github.com/matulevicius123/DetectorFerrugem/blob/main/Projeto%20Semestral%20-%20Intelig%C3%AAncia%20Artificial.pdf)
 3. Vídeo curto no YouTube sobre o projeto.
 
