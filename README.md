@@ -9,3 +9,5 @@ Neste repositório, se encontra o código-fonte do projeto, o dataset completo, 
 2. [Artigo sobre o projeto.](https://github.com/matulevicius123/DetectorFerrugem/blob/main/Projeto%20Semestral%20-%20Intelig%C3%AAncia%20Artificial.pdf)
 3. [Vídeo curto no YouTube sobre o projeto.](https://www.youtube.com/watch?v=2KhiuMdQJD0)
 
+### Execução
+Para executar a aplicação, é necessária uma instalação do Python 3. Para executar o projeto, incluindo o front-end Streamlit na sua própria máquina, basta obter o projeto utilizando o comando `git clone https://github.com/matulevicius123/DetectorFerrugem.git`, instalar os pacotes utilizados com `pip install streamlit tensorflow`, e então executar o arquivo `main.py`.
